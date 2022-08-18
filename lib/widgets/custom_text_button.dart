@@ -6,7 +6,7 @@ class CustomTextButton extends StatelessWidget {
   final Color color;
   final double textSize;
   final Color textColor;
-  final Function onPressed; //No ponemos void Function porque retorna un String
+  final Function onPressed; 
 
   const CustomTextButton({
     Key? key,
