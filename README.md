@@ -1,16 +1,29 @@
 # calculator_app
 
-A new Flutter project.
+## Description
+> Calculator app. Here's my attempt at replicating the UI of the Motorola G31 calculator
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Some screenshots
+![1](https://user-images.githubusercontent.com/89169847/185427730-46d290bc-43a1-4ba7-af07-1b5de409441c.jpg)
+![2](https://user-images.githubusercontent.com/89169847/185427745-4eb26b61-ca7b-45bb-89ee-d74617c44b81.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Used items
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Widgets
+> * SizedBox
+> * Expanded
+> * Container
+> * Text
+> * TextButton
+> * Padding
+> * Row
+> * Column
+> * Padding
+> * GestureDetector
+
+> Third party packages
+> * [math_expressions](https://pub.dev/packages/math_expressions)
+> * [provider](https://pub.dev/packages/provider)
+> * [google_fonts](https://pub.dev/packages/google_fonts)
